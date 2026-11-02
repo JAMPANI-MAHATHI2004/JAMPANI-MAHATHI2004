@@ -7,6 +7,20 @@ Hi! I'm Mahathi Jampani 👋<br><br>🎓 B.Tech Graduate | 2025<br><br>📊 Aspi
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+## 🚀 Featured Projects
+
+### 📈 [Store Item Demand Forecasting](https://github.com/JAMPANI-MAHATHI2004/Store-item-demand-forecasting)
+Forecasted store-item sales using historical sales data and machine learning techniques.
+- **Tools:** Python, Pandas, LightGBM
+- **Focus:** Time Series Forecasting, Feature Engineering, Model Evaluation
+
+
+### 🦴 [Knee Osteoarthritis Severity Classification](https://github.com/JAMPANI-MAHATHI2004/DEEP-LEARNING-FOR-KNEE-OSTEOARTHRITIS-SEVERITY-CLASSIFICATION-)
+Deep learning project for classifying knee osteoarthritis severity from X-ray images.
+- **Tools:** Python, TensorFlow, EfficientNet-B3
+- **Focus:** Image Classification, Deep Learning, Grad-CAM Explainability
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=JAMPANI-MAHATHI2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=JAMPANI-MAHATHI2004&theme=dark&hide_border=false)<br/>
